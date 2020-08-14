@@ -1,7 +1,7 @@
-|  |  |
-|-------------------------------------:|:------------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/87654796-0b207900-c775-11ea-8b5a-46616c11c351.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/90257528-eea35980-de64-11ea-9bc2-199776bc46b4.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/90257198-763c9880-de64-11ea-8660-016120f27558.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/90257896-65d8ed80-de65-11ea-9996-6542307820d7.png">|
+|  |  |  |
+|-------------------------------------:|:------------------------------:|:------------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/87654796-0b207900-c775-11ea-8b5a-46616c11c351.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/90257528-eea35980-de64-11ea-9bc2-199776bc46b4.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/90257198-763c9880-de64-11ea-8660-016120f27558.png">|
+
 
 
 
