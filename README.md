@@ -1,6 +1,6 @@
 | | | |
 |------------------------------------:|:--------------------------:|:---------------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/87654796-0b207900-c775-11ea-8b5a-46616c11c351.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/84147747-8ce8fc80-aa7b-11ea-836d-186b1b3b6039.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=https://user-images.githubusercontent.com/30195666/84310662-a2dfe580-ab7f-11ea-8ff5-f2a8dc712508.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/87654796-0b207900-c775-11ea-8b5a-46616c11c351.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/84147747-8ce8fc80-aa7b-11ea-836d-186b1b3b6039.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/30195666/84310662-a2dfe580-ab7f-11ea-8ff5-f2a8dc712508.png">|
 
 
 
