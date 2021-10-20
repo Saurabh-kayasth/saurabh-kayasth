@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif"/>
+<img src="https://blackthorn-vision.com/assets/img/blog/a-article-3.jpg"/>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Saurabh Kayasth and I'm a Frontend Developer. I'm currently pursuing Masters in Big Data Analytics.
