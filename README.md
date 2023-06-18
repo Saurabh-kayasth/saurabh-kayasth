@@ -1,7 +1,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg"/>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Saurabh Kayasth and I'm a **Full Stack** Developer. I'm currently pursuing Masters in Big Data Analytics.
+My name is Saurabh Kayasth and I'm a **Full Stack** Developer.
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][1.2]][1]
