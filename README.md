@@ -1,7 +1,9 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg"/>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Saurabh Kayasth and I'm a **Full Stack** Developer.
+I'm a passionate **Full Stack Developer** who thrives on building projects from inception to realization, relishing every stage of the development process. I find immense joy in delving deep into technologies and frameworks to truly understand how they work.
+
+Professionally, I've had the opportunity to work with a range of technologies, including React (both web and native), Node.js, and Java (specifically Spring Boot). However, my passion for technology extends beyond the workplace. I thrive on creating side projects, which not only serve as a creative outlet but also provide an opportunity to delve into new frameworks and languages. This continuous exploration broadens my problem-solving perspective and keeps my skills sharp. I embrace challenges wholeheartedly, which is why I actively seek to use frameworks and languages I haven't encountered before whenever I embark on a new project. It's the perfect way to keep pushing my boundaries and expanding my horizons.
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][1.2]][1]
